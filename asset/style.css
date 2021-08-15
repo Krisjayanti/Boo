@@ -1,0 +1,132 @@
+body {
+    background-color: #B2BABB;
+
+}
+
+.container {
+    background-color: white;
+    border-color: rosybrown;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+
+.midle {
+    display: flex;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border: black;
+    background-color: #E6E6FA;
+}
+
+.img {
+    margin-right: 115px;
+    width: 200px;
+    height: 200px;
+    left: 760px;
+    top: 210px;
+    border-radius: 50%;
+    box-shadow: -1px 10px 9px rgb(176, 224, 230);
+
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.hl {
+
+    text-align: center;
+    background-color: #191970;
+    color: white;
+    padding: 5px;
+    padding-top: 2px;
+    margin: 4px;
+    border-radius: 35%;
+    font-size: 16px;
+
+}
+
+.text-muted {
+    padding: 5px;
+    padding-top: 2px;
+    margin: 4px;
+    margin-left: 0px;
+}
+
+.card-img {
+
+    width: 216px;
+    height: 180px;
+    left: 146px;
+    top: 1088px;
+}
+
+.amet {
+    font-size: 16px;
+    line-height: 23px;
+}
+
+p.ce {
+    font-size: 18px;
+    color: #2E8B57;
+
+}
+
+.card-text {
+    font-size: 16px;
+}
+
+.column i {
+    font-size: 16px;
+    line-height: 1.5em;
+    display: inline-flex;
+    font-style: normal;
+    flex-direction: row;
+}
+
+b#edu {
+    font-size: 17px;
+}
+
+.ed {
+    justify-content: right;
+}
+
+.cb {
+    font-size: 15px;
+    line-height: 1em;
+}
+
+li {
+    font-size: 16px;
+    line-height: 1em;
+    justify-content: right;
+}
+
+.ft {
+    width: 30px;
+    margin: 7px;
+    height: 30px;
+    left: calc(50% - 30px/2 + 100px);
+    top: calc(50% - 30px/2 - 25px);
+
+}
+
+.col {
+    margin-left: 20px;
+
+}
+
+.con {
+    margin-left: 148px;
+}
+
+.mb-3 {
+    padding-top: 228px;
+    padding-left: 148px;
+    padding-right: 149px;
+    padding-bottom: 142px;
+
+
+}
